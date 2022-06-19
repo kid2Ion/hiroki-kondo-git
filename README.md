@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiroki-kondo-git&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hiroki-kondo-git&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroki-kondo-git&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
