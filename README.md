@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kid2Ion&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**kid2Ion/hiroki-kondo-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kid2Ion/kid2Ion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
